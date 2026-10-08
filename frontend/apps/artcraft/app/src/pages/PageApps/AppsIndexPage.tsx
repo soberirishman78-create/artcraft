@@ -1,4 +1,5 @@
 import { ArrowRightIcon } from "lucide-react";
+import { FactoryWorkspace } from "./FactoryWorkspace";
 import { DynamicIcon } from "@storyteller/icons";
 import { twMerge } from "tailwind-merge";
 import {
@@ -33,6 +34,8 @@ export const AppsIndexPage = () => {
         <p className="mt-4 max-w-xl text-sm leading-relaxed text-base-fg/70 sm:text-base">
           Start with an idea. Choose a tool to bring it to life.
         </p>
+
+        <FactoryWorkspace />
 
         {categories.map((category, index) => (
           <section
