@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { EMPTY_DRAFT, makeBrief, restoreDraft } from "./factoryWorkspace";
+import { EMPTY_DRAFT, makeBrief, restoreDraft } from "./factoryBrief";
 
 describe("Factory workspace", () => {
   it("recovers malformed drafts and limits persisted input", () => {

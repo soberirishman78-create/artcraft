@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { FACTORY_CHANNELS, makeBrief, restoreDraft, type WorkspaceDraft } from "./factoryWorkspace";
+import { FACTORY_CHANNELS, makeBrief, restoreDraft, type WorkspaceDraft } from "./factoryBrief";
 
 const STORAGE_KEY = "ambience-factory.workspace.v1";
 const FIELD_CLASS = "mt-2 w-full rounded border border-ui-border bg-ui-background p-3 text-base-fg";
