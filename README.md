@@ -1,4 +1,6 @@
 <h1 align="center">ArtCraft</h1>
+
+> **Ambience Factory personal fork:** The Apps home page includes our channel workspace for TaleFold Classics, Relaxation Station Loops and Side Quest Central. It saves a local artwork draft, prepares reusable scene prompts and exports an artwork brief. It does not automatically generate media, spend credits or connect to the production factory. ArtCraft's license, attribution, community links and provider services are retained. The upstream downloads below are upstream builds; this fork does not yet publish a custom installer.
 <p align="center"><strong>The IDE for artists.</strong></p>
 
 <!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go
